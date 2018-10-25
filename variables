@@ -1,0 +1,5 @@
+// variables and operators
+
+a < 5  // Checks to see if a is less than five
+a > 5  // Checks to see if a is greater than five
+a == 5 // Checks to see if a equals five, for good measure
